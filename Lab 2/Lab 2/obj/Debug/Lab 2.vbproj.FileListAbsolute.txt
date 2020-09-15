@@ -10,3 +10,4 @@ C:\Users\timot\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.vbproj.CoreCompileInputs
 C:\Users\timot\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
 C:\Users\timot\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.xml
 C:\Users\timot\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\timot\source\repos\Lab 2\Lab 2\obj\Debug\Lab_2.Form2.resources
